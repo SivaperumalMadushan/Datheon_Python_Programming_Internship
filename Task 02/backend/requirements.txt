@@ -1,0 +1,2 @@
+# Phase 1 – portfolio.py uses only the Python standard library (csv, datetime, pathlib).
+# Phase 2 will add: fastapi, uvicorn, motor (async MongoDB driver), python-dotenv, pydantic

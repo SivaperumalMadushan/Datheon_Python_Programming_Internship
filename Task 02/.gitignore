@@ -1,0 +1,19 @@
+# ── Python ────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── Environment / Secrets ─────────────────────────────────────
+.env
+
+# ── Node / Expo (Phase 3 – React Native) ─────────────────────
+node_modules/
+.expo/
+
+# ── Generated output ──────────────────────────────────────────
+data/output/
